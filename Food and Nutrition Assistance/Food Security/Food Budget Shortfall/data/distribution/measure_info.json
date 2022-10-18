@@ -1,5 +1,5 @@
-[
-    {
+{
+    "weighted_budget_shortfall": {
         "category": "",
         "equity_category": "",
         "full_name": "",
@@ -19,4 +19,4 @@
         "statement": "",
         "type": "cost"
     }
-]
+}
