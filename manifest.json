@@ -17,7 +17,7 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/ncr_cttrbg_acs_2013_2020_hh_receiving_snap.csv.xz"
   ],
   "count": 44,
-  "utc_audited": "2022-11-30 15:55:09",
+  "utc_audited": "2022-12-01 16:15:31",
   "data": [
     {
       "name": "measure_info.json",
