@@ -14,10 +14,12 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Food Security/Population Measures/Overall Food Insecurity/data/distribution/ncr_ct_fa_2014_2019_food_security.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Food Items/data/distribution/va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Supermarket Drive Times/data/distribution/va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/va013_catr_sdad_2022_mrfei.csv.xz"
+    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/va013_catr_sdad_2022_mrfei.csv.xz",
+    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_security_est.csv",
+    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_feedamerica_2020_food_insecurity.csv"
   ],
-  "count": 44,
-  "utc_audited": "2022-12-02 14:21:35",
+  "count": 49,
+  "utc_audited": "2022-12-02 15:54:38",
   "data": [
     {
       "name": "temp",
@@ -281,6 +283,36 @@
     {
       "name": "temp",
       "path": "Food Access/Healthy Food Availability/code/distribution/temp",
+      "md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "size": 0
+    },
+    {
+      "name": "temp",
+      "path": "Food Security Estimates Fairfax County/docs/distribution/temp",
+      "md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "size": 0
+    },
+    {
+      "name": "measure_info.json",
+      "path": "Food Security Estimates Fairfax County/data/distribution/measure_info.json",
+      "md5": "68eef51b29f485ab6fb705f975f21fbe",
+      "size": 32736
+    },
+    {
+      "name": "fairfax_tr_mult_2022_food_security_est.csv",
+      "path": "Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_security_est.csv",
+      "md5": "10b2ae0e4a47ee6323d0a7e3ad7f58b4",
+      "size": 43316
+    },
+    {
+      "name": "fairfax_tr_feedamerica_2020_food_insecurity.csv",
+      "path": "Food Security Estimates Fairfax County/data/distribution/fairfax_tr_feedamerica_2020_food_insecurity.csv",
+      "md5": "00a986e62751136d7ef6835386c6fa19",
+      "size": 44004
+    },
+    {
+      "name": "temp",
+      "path": "Food Security Estimates Fairfax County/code/distribution/temp",
       "md5": "d41d8cd98f00b204e9800998ecf8427e",
       "size": 0
     }
