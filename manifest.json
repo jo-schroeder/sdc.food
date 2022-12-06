@@ -14,11 +14,11 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Food Items/data/distribution/va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Supermarket Drive Times/data/distribution/va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/va013_catr_sdad_2022_mrfei.csv.xz",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_security_est.csv",
+    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_insecurity_estimates.csv",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_feedamerica_2020_food_insecurity.csv"
   ],
-  "count": 49,
-  "utc_audited": "2022-12-05 23:04:19",
+  "count": 50,
+  "utc_audited": "2022-12-06 14:55:19",
   "data": [
     {
       "name": "temp",
@@ -293,16 +293,22 @@
       "size": 0
     },
     {
+      "name": "fairfax_tr_mult_2022_food_insecurity_estimates.csv",
+      "path": "Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_insecurity_estimates.csv",
+      "md5": "ff3481b8f1a65497d06fbafbb00439ea",
+      "size": 210549
+    },
+    {
       "name": "measure_info.json",
       "path": "Food Security Estimates Fairfax County/data/distribution/measure_info.json",
       "md5": "68eef51b29f485ab6fb705f975f21fbe",
       "size": 32736
     },
     {
-      "name": "fairfax_tr_mult_2022_food_security_est.csv",
-      "path": "Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_security_est.csv",
-      "md5": "10b2ae0e4a47ee6323d0a7e3ad7f58b4",
-      "size": 43316
+      "name": "Rplots.pdf",
+      "path": "Food Security Estimates Fairfax County/data/distribution/Rplots.pdf",
+      "md5": "635f63485ad02b5e0b6d1a6d5d1dbf1f",
+      "size": 5455
     },
     {
       "name": "fairfax_tr_feedamerica_2020_food_insecurity.csv",
