@@ -18,7 +18,7 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/ncr_cttrbg_acs_2013_2020_hh_receiving_snap.csv.xz"
   ],
   "count": 51,
-  "utc_audited": "2023-02-15 17:53:01",
+  "utc_audited": "2023-02-15 21:36:07",
   "data": [
     {
       "name": "ncr_cttr_fa_2014_2020_overall_food_insecurity.csv.xz",
@@ -227,8 +227,8 @@
     {
       "name": "va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
       "path": "Food Access/Food Items/data/distribution/va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
-      "md5": "015d7a6507b8371c52c024964e67356b",
-      "size": 165744
+      "md5": "6b89f2cf067431a5d02b3929af7b84b8",
+      "size": 164460
     },
     {
       "name": "temp",
