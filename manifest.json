@@ -12,14 +12,14 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Overall Food Insecurity/data/distribution/ncr_cttr_fa_2014_2020_overall_food_insecurity.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Overall Food Insecurity/data/distribution/va_hdcttr_fa_2014_2020_overall_food_insecurity.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Overall Food Insecurity/data/distribution/va059_tr_sdad_2022_food_insecurity_estimates.csv",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/va013_catr_sdad_2022_mrfei.csv.xz",
+    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Food Items/data/distribution/va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Supermarket Drive Times/data/distribution/va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/ncr_cttrbg_acs_2013_2020_hh_receiving_snap.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/va_hdcttrbg_acs_2013_2020_hh_receiving_snap.csv.xz"
   ],
-  "count": 53,
-  "utc_audited": "2023-03-08 17:48:16",
+  "count": 54,
+  "utc_audited": "2023-03-09 18:17:43",
   "data": [
     {
       "name": "temp",
@@ -238,22 +238,28 @@
       "size": 0
     },
     {
-      "name": "temp",
-      "path": "Food Access/Healthy Food Availability/code/distribution/temp",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "size": 0
+      "name": "ingest.R",
+      "path": "Food Access/Healthy Food Availability/code/distribution/ingest.R",
+      "md5": "232ad2d1ebc071416369bd493ad34a49",
+      "size": 2149
     },
     {
-      "name": "va013_catr_sdad_2022_mrfei.csv.xz",
-      "path": "Food Access/Healthy Food Availability/data/distribution/va013_catr_sdad_2022_mrfei.csv.xz",
-      "md5": "fb825627264b66afe38a87158e2cab80",
-      "size": 1628
+      "name": "prepare.R",
+      "path": "Food Access/Healthy Food Availability/code/distribution/prepare.R",
+      "md5": "72ea299d4168c80211f1ff6f3e09c086",
+      "size": 4344
+    },
+    {
+      "name": "ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
+      "path": "Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
+      "md5": "512f66a67e19440f7c03b4ef0fe7ed6b",
+      "size": 651329
     },
     {
       "name": "measure_info.json",
       "path": "Food Access/Healthy Food Availability/data/distribution/measure_info.json",
-      "md5": "04c39390dfdf61d3141942cfbe18e510",
-      "size": 932
+      "md5": "883252e3f142cc1b4ff8fec29854fc58",
+      "size": 1603
     },
     {
       "name": "temp",
@@ -340,5 +346,20 @@
       "size": 3304
     }
   ],
-  "_references": {}
+  "_references": {
+    "cdc11a": {
+      "id": "cdc11a",
+      "author": "Centers for Disease Control and Prevention",
+      "year": 2011,
+      "title": "Children\u2019s Food Environment State Indicator Report",
+      "url": "https://www.cdc.gov/obesity/downloads/ChildrensFoodEnvironment.pdf"
+    },
+    "cdc11b": {
+      "id": "cdc11b",
+      "author": "Centers for Disease Control and Prevention",
+      "year": 2011,
+      "title": "Census Tract Level State Maps of the Modified Retail Food Environment Index (mRFEI)",
+      "url": "https://www.cdc.gov/obesity/downloads/census-tract-level-state-maps-mrfei_TAG508.pdf"
+    }
+  }
 }

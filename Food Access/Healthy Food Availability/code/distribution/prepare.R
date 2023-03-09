@@ -49,5 +49,5 @@ RFEI <- bg_RFEI %>% rbind(tr_RFEI) %>% rbind(ct_RFEI) %>% rbind(civic_RFEI)
 
 # create dataset
 ncr_cttrbgca_sdad_2023_mrfei <- RFEI %>% st_drop_geometry() %>% select(geoid, region_name, region_type, value = RFEI) %>% mutate(year = 2023, measure = "mrfei", measure_type = "index", moe = NA)
-write.csv(ncr_cttrbgca_sdad_2023_mrfei, "Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz")
+write_csv(ncr_cttrbgca_sdad_2023_mrfei, "Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz")
 
