@@ -11,9 +11,26 @@
     "sources": [
       {
         "name": "OpenStreetMap",
-        "date_accessed": 2021,
+        "date_accessed": 2023,
         "url": "https://www.openstreetmap.org/"
       }
-    ]
+    ],
+    "citations": ["cdc11a", "cdc11b"]
+  },
+  "_references": {
+    "cdc11a": {
+      "id": "cdc11a",
+      "author": "Centers for Disease Control and Prevention",
+      "year": 2011,
+      "title": "Children’s Food Environment State Indicator Report",
+      "url": "https://www.cdc.gov/obesity/downloads/ChildrensFoodEnvironment.pdf"
+    },
+    "cdc11b": {
+      "id": "cdc11b",
+      "author": "Centers for Disease Control and Prevention",
+      "year": 2011,
+      "title": "Census Tract Level State Maps of the Modified Retail Food Environment Index (mRFEI)",
+      "url": "https://www.cdc.gov/obesity/downloads/census-tract-level-state-maps-mrfei_TAG508.pdf"
+    }
   }
 }
