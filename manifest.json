@@ -19,7 +19,7 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/va_hdcttrbg_acs_2013_2020_hh_receiving_snap.csv.xz"
   ],
   "count": 54,
-  "utc_audited": "2023-03-09 18:17:43",
+  "utc_audited": "2023-03-09 19:53:47",
   "data": [
     {
       "name": "temp",
@@ -246,14 +246,14 @@
     {
       "name": "prepare.R",
       "path": "Food Access/Healthy Food Availability/code/distribution/prepare.R",
-      "md5": "72ea299d4168c80211f1ff6f3e09c086",
+      "md5": "de7e0c83e25ae488adf0bda735aa215a",
       "size": 4344
     },
     {
       "name": "ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
       "path": "Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
-      "md5": "512f66a67e19440f7c03b4ef0fe7ed6b",
-      "size": 651329
+      "md5": "af328ea02d790c12a2f58dde09ee4f07",
+      "size": 30340
     },
     {
       "name": "measure_info.json",

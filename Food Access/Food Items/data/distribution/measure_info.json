@@ -1,5 +1,5 @@
 {
-  "latino_east_african_gravity_models:avocado_ecdf_idx": {
+  "avocado_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:avocado_ecdf_idx",
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "latino_east_african_gravity_models:favabeans_ecdf_idx": {
+  "favabeans_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:favabeans_ecdf_idx",
@@ -37,7 +37,7 @@
       }
     ]
   },
-  "latino_east_african_gravity_models:nopalitos_ecdf_idx": {
+  "nopalitos_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:nopalitos_ecdf_idx",
@@ -56,7 +56,7 @@
       }
     ]
   },
-  "latino_east_african_gravity_models:teff_ecdf_idx": {
+  "teff_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:teff_ecdf_idx",
@@ -75,7 +75,7 @@
       }
     ]
   },
-  "latino_east_african_gravity_models:tomatillos_ecdf_idx": {
+  "tomatillos_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:tomatillos_ecdf_idx",
@@ -94,7 +94,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:beets_ecdf_idx": {
+    "beets_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:beets_ecdf_idx",
@@ -113,7 +113,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:blackbeans_ecdf_idx": {
+    "blackbeans_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:blackbeans_ecdf_idx",
@@ -132,7 +132,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:cheese_ecdf_idx": {
+    "cheese_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:cheese_ecdf_idx",
@@ -151,7 +151,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:corntortillas_ecdf_idx": {
+    "corntortillas_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:corntortillas_ecdf_idx",
@@ -170,7 +170,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:crackers_ecdf_idx": {
+    "crackers_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:crackers_ecdf_idx",
@@ -189,7 +189,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:greenchiles_ecdf_idx": {
+    "greenchiles_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:greenchiles_ecdf_idx",
@@ -208,7 +208,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:jalapenos_ecdf_idx": {
+    "jalapenos_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:jalapenos_ecdf_idx",
@@ -227,7 +227,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:legumes_ecdf_idx": {
+    "legumes_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:legumes_ecdf_idx",
@@ -246,7 +246,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:masa_ecdf_idx": {
+    "masa_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:masa_ecdf_idx",
@@ -265,7 +265,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:mixedfruit_ecdf_idx": {
+    "mixedfruit_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:mixedfruit_ecdf_idx",
@@ -284,7 +284,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:peppers_ecdf_idx": {
+    "peppers_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:peppers_ecdf_idx",
@@ -303,7 +303,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:pintobeans_ecdf_idx": {
+    "pintobeans_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:pintobeans_ecdf_idx",
@@ -322,7 +322,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:rice_ecdf_idx": {
+    "rice_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:rice_ecdf_idx",
@@ -341,7 +341,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:salsa_ecdf_idx": {
+    "salsa_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:salsa_ecdf_idx",
@@ -360,7 +360,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:squash_ecdf_idx": {
+    "squash_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:squash_ecdf_idx",
@@ -379,7 +379,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:tomatoes_ecdf_idx": {
+    "tomatoes_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:tomatoes_ecdf_idx",
@@ -398,7 +398,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:barley_ecdf_idx": {
+    "barley_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:barley_ecdf_idx",
@@ -417,7 +417,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:currypowder_ecdf_idx": {
+    "currypowder_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:currypowder_ecdf_idx",
@@ -436,7 +436,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:blackeyepeas_ecdf_idx": {
+    "blackeyepeas_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:blackeyepeas_ecdf_idx",
@@ -455,7 +455,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:driedbeans_ecdf_idx": {
+    "driedbeans_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:driedbeans_ecdf_idx",
@@ -474,7 +474,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:drieddates_ecdf_idx": {
+    "drieddates_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:drieddates_ecdf_idx",
@@ -493,7 +493,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:garbanzo_ecdf_idx": {
+    "garbanzo_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:garbanzo_ecdf_idx",
@@ -512,7 +512,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:lentils_ecdf_idx": {
+    "lentils_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:lentils_ecdf_idx",
@@ -531,7 +531,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:basmati_ecdf_idx": {
+    "basmati_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:basmati_ecdf_idx",
@@ -550,7 +550,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:pasta_ecdf_idx": {
+    "pasta_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:pasta_ecdf_idx",
@@ -569,7 +569,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:tomatosauce_ecdf_idx": {
+    "tomatosauce_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:tomatosauce_ecdf_idx",
@@ -588,7 +588,7 @@
       }
     ]
   },
-    "latino_east_african_gravity_models:tuna_ecdf_idx": {
+    "tuna_ecdf_idx": {
     "category": "Nutrition and Food Security",
     "measure_table": "latino_east_african_gravity_models",
     "full_name": "latino_east_african_gravity_models:tuna_ecdf_idx",
