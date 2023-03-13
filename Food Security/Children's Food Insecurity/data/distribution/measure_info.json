@@ -1,5 +1,5 @@
 {
-  "food_insecurity_and_cost:Child_Food_Insecurity_Rate": {
+  "Child_Food_Insecurity_Rate": {
     "category": "Nutrition and Food Security",
     "measure_table": "Child_Food_Insecurity_Rate",
     "full_name": "food_insecurity_and_cost:Child_Food_Insecurity_Rate",
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "food_insecurity_and_cost:Num_Child_Food_Insecure": {
+  "Num_Child_Food_Insecure": {
     "category": "Nutrition and Food Security",
     "measure_table": "food_insecurity_and_cost",
     "full_name": "food_insecurity_and_cost:Num_Child_Food_Insecure",

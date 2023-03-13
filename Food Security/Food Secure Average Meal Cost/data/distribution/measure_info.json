@@ -1,5 +1,5 @@
 {
-  "food_insecurity_and_cost:Cost_Per_Meal": {
+  "Cost_Per_Meal": {
     "category": "Nutrition and Food Security",
     "measure_table": "food_insecurity_and_cost",
     "full_name": "food_insecurity_and_cost:Cost_Per_Meal",
