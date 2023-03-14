@@ -3,8 +3,6 @@
   "measure_not_found": [
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Secure Average Meal Cost/data/distribution/ncr_ct_fa_2014_2019_food_secure_avg_meal_cost.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Secure Average Meal Cost/data/distribution/va_hdct_fa_2014_2019_food_secure_avg_meal_cost.csv.xz",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_mult_2022_food_insecurity_estimates.csv",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_feedamerica_2020_food_insecurity.csv",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Budget Shortfall/data/distribution/ncr_ct_fa_2014_2019_food_budget_shortfall.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Budget Shortfall/data/distribution/va_hdct_fa_2014_2019_food_budget_shortfall.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Children's Food Insecurity/data/distribution/va_hdct_fa_2014_2019_childrens_food_insecurity.csv.xz",
@@ -19,7 +17,7 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/va_hdcttrbg_acs_2013_2020_hh_receiving_snap.csv.xz"
   ],
   "count": 54,
-  "utc_audited": "2023-03-13 23:30:19",
+  "utc_audited": "2023-03-14 16:30:19",
   "data": [
     {
       "name": "temp",
@@ -70,16 +68,16 @@
       "size": 210549
     },
     {
+      "name": "measure_info_fairfax_tr_mult_2022_food_insecurity_estimates.json",
+      "path": "Food Security/Food Security Estimates Fairfax County/data/distribution/measure_info_fairfax_tr_mult_2022_food_insecurity_estimates.json",
+      "md5": "99914b932bd37a50b983c5e7c90ae93b",
+      "size": 2
+    },
+    {
       "name": "fairfax_tr_feedamerica_2020_food_insecurity.csv",
       "path": "Food Security/Food Security Estimates Fairfax County/data/distribution/fairfax_tr_feedamerica_2020_food_insecurity.csv",
       "md5": "00a986e62751136d7ef6835386c6fa19",
       "size": 44004
-    },
-    {
-      "name": "measure_info.json",
-      "path": "Food Security/Food Security Estimates Fairfax County/data/distribution/measure_info.json",
-      "md5": "68eef51b29f485ab6fb705f975f21fbe",
-      "size": 32736
     },
     {
       "name": "temp",
