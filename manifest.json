@@ -3,7 +3,6 @@
   "measure_not_found": [
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Healthy Food Availability/data/distribution/ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Food Items/data/distribution/va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz",
-    "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Access/Supermarket Drive Times/data/distribution/va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/va_hdcttrbg_acs_2013_2020_hh_receiving_snap.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food and Nutrition Assistance/Supplemental Nutrition Assistance Program (SNAP)/data/distribution/ncr_cttrbg_acs_2013_2020_hh_receiving_snap.csv.xz",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Food Secure Average Meal Cost/data/distribution/va_hdct_fa_2014_2019_food_secure_avg_meal_cost.csv.xz",
@@ -16,8 +15,8 @@
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Overall Food Insecurity/data/distribution/va059_tr_sdad_2022_food_insecurity_estimates.csv",
     "/home/runner/work/sdc.food_dev/sdc.food_dev/Food Security/Overall Food Insecurity/data/distribution/ncr_cttr_fa_2014_2020_overall_food_insecurity.csv.xz"
   ],
-  "count": 56,
-  "utc_audited": "2023-03-21 18:22:09",
+  "count": 53,
+  "utc_audited": "2023-03-28 16:07:29",
   "data": [
     {
       "name": "ncr_cttrbgca_sdad_2023_mrfei.csv.xz",
@@ -92,28 +91,10 @@
       "size": 220666
     },
     {
-      "name": "va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
-      "path": "Food Access/Supermarket Drive Times/data/distribution/va_cttr_osrm_2021_supermarket_drive_times.csv.xz",
-      "md5": "09f762f703fd71a6351252765ac559bc",
-      "size": 50480
-    },
-    {
-      "name": "measure_info.json",
-      "path": "Food Access/Supermarket Drive Times/data/distribution/measure_info.json",
-      "md5": "99914b932bd37a50b983c5e7c90ae93b",
-      "size": 2
-    },
-    {
-      "name": "temp",
-      "path": "Food Access/Supermarket Drive Times/docs/distribution/temp",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "size": 0
-    },
-    {
-      "name": "temp",
-      "path": "Food Access/Supermarket Drive Times/code/distribution/temp",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "size": 0
+      "name": "ingest01.R",
+      "path": "Food Access/Food Items/code/distribution/ingest01.R",
+      "md5": "021327dd47ad1a9935e8d6cd069824d5",
+      "size": 334
     },
     {
       "name": "measure_info.json",
